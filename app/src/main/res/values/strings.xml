@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">PR2</string>
+    <string-array name="language">
+        <item>Выберите пол</item>
+        <item>Мужской</item>
+        <item>Женский</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
